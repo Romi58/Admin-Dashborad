@@ -28,7 +28,7 @@ The **Food Truck Admin Dashboard** is a web-based application that allows food t
 ### Steps to Run Locally
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/food-truck-dashboard.git
+   git clone https:https://github.com/Romi58/Admin-Dashborad.git
    cd food-truck-dashboard
    ```
 2. **Install dependencies**:
